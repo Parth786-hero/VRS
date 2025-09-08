@@ -1,0 +1,1 @@
+This is practice project that is designed in React -UI and Java springboot - backend.
